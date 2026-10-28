@@ -139,10 +139,10 @@ Un ThinkCentre M920q sous Proxmox pour mes labs CCNP, mes TP de virtualisation e
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/celianbdr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:celianbedminster@proton.me"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&color=8B5CF6&style=flat-square&label=Visites" />
+  <img src="https://komarev.com/ghpvc/?username=celianbdr&color=8B5CF6&style=flat-square&label=Visites" />
 </p>

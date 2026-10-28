@@ -132,7 +132,7 @@ Un ThinkCentre M920q sous Proxmox pour mes labs CCNP, mes TP de virtualisation e
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=celianbdr&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=celianbed&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📫 Me contacter

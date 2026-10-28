@@ -1,13 +1,12 @@
 <h1 align="center">Salut, moi c'est Célian 👋</h1>
 
 <p align="center">
-  Apprenti développeur chez <b>Bull SAS (Eviden)</b> · Étudiant en master à l'<b>ESGI</b><br>
+  Étudiant en master à l'<b>ESGI</b><br>
   Full stack, infra et outillage interne. J'aime quand ça tourne en prod et que c'est propre derrière.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_France-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Alternance-Bull_SAS_/_Eviden-6B21A8?style=flat-square" />
   <img src="https://img.shields.io/badge/École-ESGI-0F172A?style=flat-square" />
   <img src="https://img.shields.io/badge/En_prépa-CCNP-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 </p>

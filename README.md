@@ -18,7 +18,7 @@
 Je développe des applis pour des clients et en environnement entreprise, du mobile jusqu'au serveur. En ce moment je bosse sur de l'outillage interne et de l'infra on premise (RHEL, Podman, LLM en local), je construis **Sync Watch**, une app de suivi de séries et films, et je prépare le **CCNP** sur mon homelab.
 
 Si tu veux tester mon application sur iPhone : https://testflight.apple.com/join/SpQ2CZWA <br>
-Sur Android : 
+Sur Android : https://keepandroidopen.org/fr/
 
 ## 🛠️ Stack
 

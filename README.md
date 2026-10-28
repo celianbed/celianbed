@@ -100,8 +100,8 @@ Projet support de mon titre CDA. API REST en Flask avec PostgreSQL déployée su
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-### 🔌 Netlist Link Graph
-Outil de visualisation 2D et 3D du routage de câbles à partir de fichiers netlist, avec détection de croisements et de proximités. Plusieurs milliers de câbles, rendu interactif sans GPU.
+### 🔌 Link Graph
+Outil de visualisation 2D et 3D du routage de câbles à partir de fichiers Excel, avec détection de croisements et de proximités. Plusieurs milliers de câbles, rendu interactif sans GPU.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)

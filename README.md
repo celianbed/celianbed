@@ -127,8 +127,8 @@ Un ThinkCentre M920q sous Proxmox pour mes labs CCNP, mes TP de virtualisation e
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=celianbdr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celianbdr&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=celianbed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celianbed&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -143,5 +143,5 @@ Un ThinkCentre M920q sous Proxmox pour mes labs CCNP, mes TP de virtualisation e
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=celianbdr&color=8B5CF6&style=flat-square&label=Visites" />
+  <img src="https://komarev.com/ghpvc/?username=celianbed&color=8B5CF6&style=flat-square&label=Visites" />
 </p>
